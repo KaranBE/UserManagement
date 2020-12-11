@@ -4,6 +4,7 @@ For FrontEnd/reactjs
 in frontend folder
 install modules using
 
+npm install -g nodemon
 npm install
 and then run run project by "npm start"
 
