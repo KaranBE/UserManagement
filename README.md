@@ -6,7 +6,7 @@ install modules using
 
 npm install -g nodemon
 npm install
-and then run run project by "npm start"
+and then run project by "npm start"
 
 for backend /nodejs
 
